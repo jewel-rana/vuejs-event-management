@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Event #1",
+            "address": "Mohakhali, Dhaka 1211",
+            "price": "120$",
+            "date": "Mon Apr 2019",
+            "time": "6:30 Pm",
+            "atendees": [
+                {
+                    "id": "abc123",
+                    "name": "Jewel"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Event #2",
+            "address": "Baridhara, Dhaka 1209",
+            "price": "60$",
+            "date": "Mon Apr 2019",
+            "time": "6:30 Pm",
+            "atendees": [
+                {
+                    "id": "abc124",
+                    "name": "Jewel"
+                },
+                {
+                    "id": "abc125",
+                    "name": "Jewel"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Event #3",
+            "address": "Bashundhara, Dhaka 1212",
+            "price": "30$",
+            "date": "Mon Apr 2019",
+            "time": "6:30 Pm",
+            "atendees": [
+                {
+                    "id": "abc126",
+                    "name": "Jewel"
+                },
+                {
+                    "id": "abc127",
+                    "name": "Jewel"
+                },
+                {
+                    "id": "abc128",
+                    "name": "Jewel"
+                }
+            ]
+        }
+    ]
+}
